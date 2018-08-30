@@ -1,0 +1,6 @@
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\Delopgave3-Week1\Delopgave3-Week1\bin\Debug\Delopgave3-Week1.exe.config
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\Delopgave3-Week1\Delopgave3-Week1\bin\Debug\Delopgave3-Week1.exe
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\Delopgave3-Week1\Delopgave3-Week1\bin\Debug\Delopgave3-Week1.pdb
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\Delopgave3-Week1\Delopgave3-Week1\obj\Debug\Delopgave3-Week1.csprojResolveAssemblyReference.cache
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\Delopgave3-Week1\Delopgave3-Week1\obj\Debug\Delopgave3-Week1.exe
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\Delopgave3-Week1\Delopgave3-Week1\obj\Debug\Delopgave3-Week1.pdb

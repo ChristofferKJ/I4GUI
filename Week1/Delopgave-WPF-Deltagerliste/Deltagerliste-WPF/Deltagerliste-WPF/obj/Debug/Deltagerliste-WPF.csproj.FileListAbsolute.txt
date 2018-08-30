@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\bin\Debug\Deltagerliste-WPF.exe.config
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\bin\Debug\Deltagerliste-WPF.exe
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\bin\Debug\Deltagerliste-WPF.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\App.g.cs
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF_MarkupCompile.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF_MarkupCompile.lref
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\MainWindow.baml
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF.g.resources
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste_WPF.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF.exe
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4GUI\i4gui\Week1\Delopgave-WPF-Deltagerliste\Deltagerliste-WPF\Deltagerliste-WPF\obj\Debug\Deltagerliste-WPF.pdb

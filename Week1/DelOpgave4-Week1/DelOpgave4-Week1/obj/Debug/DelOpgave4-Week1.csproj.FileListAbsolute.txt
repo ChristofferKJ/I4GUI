@@ -1,0 +1,5 @@
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\DelOpgave4-Week1\DelOpgave4-Week1\bin\Debug\DelOpgave4-Week1.exe.config
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\DelOpgave4-Week1\DelOpgave4-Week1\bin\Debug\DelOpgave4-Week1.exe
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\DelOpgave4-Week1\DelOpgave4-Week1\bin\Debug\DelOpgave4-Week1.pdb
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\DelOpgave4-Week1\DelOpgave4-Week1\obj\Debug\DelOpgave4-Week1.exe
+c:\users\chris\onedrive\documents\visual studio 2015\Projects\DelOpgave4-Week1\DelOpgave4-Week1\obj\Debug\DelOpgave4-Week1.pdb
